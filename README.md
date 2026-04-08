@@ -1,6 +1,5 @@
 BankProject
 Descrição: Este é um sistema bancário desenvolvido em C#, projetado com uma arquitetura modular e resiliente
-<img width="680" height="771" alt="image" src="https://github.com/user-attachments/assets/6209cbd7-48f6-4012-b4da-f4a75d22f8ec" />
 
 
 🌐 Visão Geral do Sistema
