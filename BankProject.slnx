@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="BankProject.BusinessLogicLayer/BankProject.BusinessLogicLayer.csproj" Id="86caf91c-b713-406b-bdea-7f0dad6f7e33" />
+  <Project Path="BankProject.Configuration/BankProject.Configuration.csproj" Id="1878262e-d116-4f38-a3ac-685ec9af66fc" />
+  <Project Path="BankProject.DataAccessLayer/BankProject.DataAccessLayer.csproj" Id="27e3f282-de65-48ce-9b21-9cedf16c3d3e" />
+  <Project Path="BankProject.Entities/BankProject.Entities.csproj" Id="30afb4d7-2215-4c48-8d46-566fd1f5bcd2" />
+  <Project Path="BankProject.Exceptions/BankProject.Exceptions.csproj" Id="a76c34d7-3073-45f0-ba91-34ade8a721be" />
+  <Project Path="Presentation/BankProject.Presentation.csproj" Id="fa011e93-bc6d-417c-95d1-c881a10e5ed4" />
+</Solution>
