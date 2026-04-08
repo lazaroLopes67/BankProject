@@ -50,14 +50,3 @@ altere a bankProject.Presentation como Projeto de inicialização
 
 # username e password
 utilize username: system, password: manager
-
-📂 Estrutura de Pastas
-Plaintext
-
-BankProject/
-├── Presentation/      # Interface do Usuário
-├── BusinessLogic/     # Regras de Negócio
-├── DataAccess/        # Gravação no database
-├── Entities/          # Modelos
-├── Exceptions/        # Exceções Customizadas
-└── Configuration/     # Configurações
