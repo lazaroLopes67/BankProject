@@ -7,6 +7,7 @@ O projeto foi construído seguindo o princípio de separação de responsabilida
 
 🏗️ Arquitetura de Camadas (Layers)
 O sistema é dividido em camadas lógicas para facilitar a manutenção e escalabilidade:
+
 🖥️ 1. Presentation Layer
 A interface de entrada. Responsável pela interação com o usuário e exibição de dados. É o "casulo" que protege a lógica interna.
 
