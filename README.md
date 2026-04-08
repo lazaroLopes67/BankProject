@@ -1,6 +1,6 @@
 BankProject
-Descrição: Este é um sistema bancário desenvolvido em C#, projetado com uma arquitetura modular e resiliente
 
+Descrição: Este é um sistema bancário desenvolvido em C#, projetado com uma arquitetura modular e resiliente
 
 🌐 Visão Geral do Sistema
 O projeto foi construído seguindo o princípio de separação de responsabilidades (SoC), garantindo que cada "membro da equipe" (camada) execute sua função sem comprometer a integridade do núcleo.
